@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="It's a race against time, fight to create the best."
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Wondering how Facebook and other giant sites work?\n
+It's more than just coding, and not even simply designing.It's not about you, it's about the user."
+        android:textStyle="italic"/>
+     <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/webpulse"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1.SHUBHAM PANDEY(7838283212) "/>
+
+</LinearLayout>

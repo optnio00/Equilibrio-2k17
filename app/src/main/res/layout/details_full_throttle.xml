@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="“ The  Business and Logo Quiz” "
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="If business attracts you, logos excite you, and startups inspire you, then Bizwhiz is just the right stage to show off your corporate knowledge. Business quiz tests your knowledge about this world of growing corporate companies, changing logos, exciting branding and marketing strategies.
+So charge up your business cells, participate and take head on with others at Bizwhiz."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/bizquiz"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Ajit Kumar(8985886557)"/>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Knowing the answer isn’t enough but the way you answer matters. Bringing this flow of analytical thinking into the field of quiz spiced up with lots of fun and technical knowledge is what Technical quiz aims at."
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="If u think that technical quiz is great but boring to participate, this quiz can prove you wrong!!
+This quiz tests not only your ability to memorize important facts and events but also sees how much you really enjoy quizzing, throwing at you new challenges and puzzles at every step. So get ready, be prepared to be puzzled and witness the fun side of quizzing."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/general"/>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Ajit Kumar(8985886557)"/>
+
+</LinearLayout>

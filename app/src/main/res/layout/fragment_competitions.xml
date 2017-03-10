@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+style="@style/Fragment">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/content">
+
+        <LinearLayout style="@style/container"
+                android:onClick="loadList"
+                android:tag="Alchemist">
+
+                <ImageView
+                    style="@style/SummaryImage"
+                    android:src="@drawable/che"/>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/textColorPrimary"
+                        android:text="Alchemist"
+                        style="@style/SummaryTitle"
+                        android:autoText="false" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Mechatronics">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/mec"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Mechatronics"
+                    style="@style/SummaryTitle"
+                    android:autoText="false" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Cybernet">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/cod1"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Cybernet"
+                    style="@style/SummaryTitle"
+                    android:autoText="false" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Autonomous">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/aut"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Autonomous"
+                    style="@style/SummaryTitle"
+                    android:autoText="false" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Civil">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/civ"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Civil"
+                    style="@style/SummaryTitle"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Exposure">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/mag"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:layout_height="wrap_content"
+                    android:text="Exposure"
+                    style="@style/SummaryTitle"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Cultural">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/cul"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:layout_height="wrap_content"
+                    android:text="Cultural"
+                    style="@style/SummaryTitle"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Gaming Geeks">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/gam"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Gaming"
+                    style="@style/SummaryTitle"
+                    android:autoText="false" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout style="@style/container"
+            android:onClick="loadList"
+            android:tag="Quizzard">
+
+            <ImageView
+                style="@style/SummaryImage"
+                android:src="@drawable/quiz"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Quizzard"
+                    style="@style/SummaryTitle"
+                    android:autoText="false" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

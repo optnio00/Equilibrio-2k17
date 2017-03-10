@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Creative thinker, Quick planner"
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="“All things are created twice; first mentally and then physically. The key to creativity begins with the end in mind.”
+
+"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/neeti"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Divya Tanu(8544297723)"/>
+
+</LinearLayout>

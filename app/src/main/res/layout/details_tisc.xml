@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="You all are locked in a hungry demon’s room. To save yourself you need the key of the lock, but unfortunately there is only one key for every two locks. So you have to compete with each other and all you wish is...NEED FOR SPEED ."
+        android:textStyle="italic"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/nfs"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1.Anshu Kumari(9473300236)"/>
+
+</LinearLayout>

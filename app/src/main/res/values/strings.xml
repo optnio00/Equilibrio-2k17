@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Equifest 2k17</string>
+    <string name="title_home">Home</string>
+    <string name="registerlink"><a href="http://www.equifest.in"> Registration </a></string>
+    <string name="title_competitions">Competitions</string>
+    <string name="title_technoholix">Contact us</string>
+    <string name="title_initiatives">Initiatives</string>
+    <string name="title_sponsors">Sponsors</string>
+    <string name="title_exhibitions">Registration</string>
+    <string name="title_team">Team Members</string>
+    <string name="facebook_app_id">178487717336</string>
+
+    <string name="content_desc_heart">Heart icon</string>
+    <string name="help_text">Double tap to</string>
+    <string name="help_text_fullstop">.</string>
+
+
+     <string name="cardview_contents">This is a CardView widget. CardView widgets can have
+        shadows and rounded corners.
+        \n\nTo create a card with a shadow, use the <font fgcolor="#FFFFFFFF">android:elevation</font>
+        attribute.
+        \n\nTo set the corner radius in your layouts, use the <font
+             fgcolor="#FFFFFFFF">card_view:cardCornerRadius</font> attribute.
+    </string>
+    <string name="cardview_radius_seekbar_text">Radius</string>
+    <string name="cardview_elevation_seekbar_text">Elevation</string>
+
+    <string name="title_conference">Conference</string>
+
+    <string name="title_workshops">Workshops</string>
+    <string name="title_developers">Developers</string>
+    <string name="no_market">No Google Play Found !.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Description</string>
+    <string name="slide_1_desc">The easiest way to describe everything in android development!</string>
+
+    <string name="slide_2_title">Search</string>
+    <string name="slide_2_desc">Search what you want to learn about android development...</string>
+
+    <string name="slide_3_title">Code</string>
+    <string name="slide_3_desc">Learn android coding from beginners to advance level...</string>
+
+    <string name="slide_4_title">translate</string>
+    <string name="slide_4_desc">Translate and learn in your language...</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="title_activity_registration">Registration</string>
+    <!-- cybernet  -->
+    <string name="codesense">
+       "Event Format:\nThe event consist of a single round in which contestants are required to solve as many problems they can out of five given programming problems in a limited time of three hours.\n\n"
+"TEAM SIZE:\nA team will consist of only a single member. Participants are required to have an account on codechef.com.\n\n"
+"Rounds:\nThere will be an only one round which will be hosted on codechef.com\n\n"
+"Types of Questions:\nThe contest will have a total of five programming questions of varying difficulty. The problems will be based on Basic Mathematics, Data Structures and Algorithms.\n\n"
+"Evaluation Criteria:\nAll submission will be tested against critical test cases. Passing all the test cases within the time limit will result in an AC verdict otherwise it will be termed as WA.\n\n"
+"Marking Scheme:\nAll the questions carry equal points. There will be NO partial grading. A correct submission will give 100 points while an incorrect submission will add a penalty of twenty minutes. Details of failed test cases won't be visible.\n\n"
+"Resolution of Ties:\nTies will be broken by the amount of time taken by the contestant to solve the problems.\n\n"
+        "Duration:\nThe contest will be of three hours.\n\n"
+    </string>
+
+    <string name="codebid">
+        "Event Format:\nThere will be two rounds of the event.\n\n"
+"Team Size:\nMaximum number of members 2.\n\n"
+"MOONSHOT ROUND:\n
+Written Test: The written test will include questions on basic C/C++, logic, pattern recognition, basic programming concepts and program analysis. The Test will be of half an hour. Based on this round maximum 10 teams will be shortlisted for the second round. There will reservation for one top team from 1st year and 2nd year each in heart-break round.\n
+HEART-BREAK ROUND:\n
+1. The second round will be of 2 hour.\n
+2. Each team will be provided with 1000 credits at the starting of the second round.\n
+3. Each question contains a particular no. of credit, based on its complexity.\n
+4. Credits system according to the following credits:\n
+A. If a team gives a correct answer, make a bid of x credits earn x credits.\n
+B. If a team gives an incorrect answer, make a bid of x credits earn –x  credits.\n
+
+5. Four team with the lowest time will get the chance to solve the
+    question in each bid.\n
+
+6. A team can get a loan of 200 credit only once, 250 credit will be
+    deducted for same, at the end or when team credit goes over 500.\n\n"
+    </string>
+
+    <string name="webpulse">
+        "The event consists of two rounds.\n
+        1.Written Test\n
+        2.Replica Round\n"
+
+"The first round covers both subjective and objective questions covering Web Technologies (HTML, CSS, JS ,Bootstrap).\n"
+
+"In Replica Round, candidates have to replicate or clone a website shown to them at the start of this round.\n"
+
+        "TEAM SIZE\n"
+         "Individual participation\n"
+
+
+"EQUILIBRIO exhibits the world, the best of your Web development skills.\n"
+    </string>
+
+    <string name="brainwaves">
+        "Event Format:\nThe event consists of two rounds.\n\n"
+"TEAM SIZE:\nMaximum number of members 3.\n\n"
+"PRELIMINARY ROUND:\n\n"
+"Written Test:\nThe written test will include puzzles and mind teasers. It will test your logical thinking ability.\n\n"
+"HEAT-UP ROUND:\n
+Based on the preliminary round, 5 teams will be selected for the heat-up-round.\n
+1. All the teams will be presented with one question at a time which they need to answer in the given time.\n
+2. The team answering the question correctly and in the minimum time will be awarded the points.\n
+3. After the final round, the team scoring the maximum points will be declared as the winner.\n\n"
+    </string>
+    <!--    -->
+
+    <!--   Alchemist  -->
+    <string name="chemecar">
+    "Event Format:\nThis event includes two rounds.\n\n"
+"1.Paper Presentation:\nDesign of Car.\n
+			   Description of Car.\n
+			   Environmental Aspects.\n\n"
+"2.Performance of Car:\nWe will provide an arena of specific length which is to be
+covered by the car with specified weight of water container and stop at the end of arena.
+Marking will be done on the basis of position of the car from the end point. \n\n"
+"#.Paper Presentation has 30% weightage.\n
+#.Performance of Car has 70% weightage.\n
+#.If any HAZARDOUS and EXPLOSIVE CHEMICALS are found to be used then the\n\n"
+"participant will be rejected and will not be eligible to participate in 2nd Round.\n
+#.Maximum permissible weight of the car is 9 kg.\n
+#.The capital cost of car should not be more than Rs.7000.\n
+#.No. of maximum participants in a group is four.\n\n"
+"Note: If it is possible then participants have to bring the video of their own practice.\n\n"
+"Note: If dry cell is used as driving mechanism then 50% of the performance marks will be deducted.\n\n"
+    </string>
+
+    <string name="chemomania">
+         "Event Format:\nThis event includes two rounds.\n\n"
+     "ROUND 1-PLAY BUZZ\n
+ Description-\nThis is basically a science Quiz involving questions based on general science and basic engineering aspects.this round has 30% weightage.\n
+Rules:\n1. there should not be more than three members in a team\n
+2. five question will be asked from each team.for every question 30sec will be given after which question will pass to next team.\n
+3. for every right answer 1 marks will be provided\n
+4. negative marking of ½ marks will be there for every wrong answer\n
+5. team can pass their question.which will become bonus question for  next team\n
+6. 1/2 marks will be provided for every right answer of bonus question\n
+7. All team will be qualified for second round,no knockout in first round.\n\n"
+"ROUND 2-LAMINOZZLE\n"
+"Description-\nLaminar flow nozzle sounds quite complex but it's actually just a myth.it is an innovative nozzle, which applies simple and reliable mechanism to create laminar flow out of turbulent. It is consist of pvc pipe, straws, scrubbers etc.this round will have 70% weightage.\n
+Judging criteria for second round:\n
+	The out coming jet should be fine laminar.\n
+	The jet should not shake itself.\n
+	It should cover maximum distance.\n
+	In case all above points are same then \n
+Concept used\n
+Construction\n\n"
+"Decision of winner-final winner will be decided on basis of grand total of both rounds.
+In case Tie, second round will be consider as deciding round.\n\n"
+    </string>
+
+    <string name="petbottle">
+         "Event Format:\nThis event includes two rounds.\n\n"
+        "1st Round:\n
+First round is a qualifying round. In this round distance is the qualification criterion and Qualification criterion is 50 meter. Single point is given for every meter .\n
+30./. Weightage for First round\n\n"
+"2nd Round:\n
+Second round is final round and this round is focused on time of flight. Five points are
+given for every second.\n
+70./. Weightage for 2nd round\n\n"
+"# Maximum 2 participants are allowed in a group.\n\n"
+    </string>
+    <!--          -->
+
+    <!-- Civil -->
+    <string name="Nirmaan">
+        "Rules:\n
+
+        1. The team should comprise of maximum 3 members.\n
+        2. You have to use only provided materials in limited amount. \n
+        3. No gluing material should be used. \n
+        4. The supporting framework and all required materials will be provided on the spot. \n
+        5.One team will have given only 15 minutes. 6.  5. Team must reach at venue on time.\n\n"
+    </string>
+
+    <string name="Crane">
+     " PROBLEM STATEMENT:\n Based on the principle of hydraulics you have to design a crane out of wood, which is capable of lifting sand in its bucket and trans-  Porting it to another location, and be fast because the clock is ticking. The team with the fastest, most stable and efficient crane takes away the prize.\n\n"
+
+
+" EVENT FORMAT \n There will be only one round.\n Participants have to build a hydraulic crane at their home and should bring it at the venue of the event. \n Crane should be able to lift the sand and place the same on certain specified position. \n Each team will be provided with fixed time interval during which they have to lift the maximum amount of sand.\n\n"
+
+ " SPECIFICATION OF THE CRANE: \n Maximum length 60cm. \n Maximum width 35cm. \n Maximum height 40cm. \n Maximum volume of syringes should be 12ml. \n The hydraulic crane must contain at least two arms. \n The hydraulic crane should have minimum of 3 degrees of freedom. \n For each degree/type of motion only one pair of syringes should be used. \n The crane should rotate at least by 60 degrees in either direction. \n\n"
+        " Materials used for making hydraulic crane: \n Wooden plank. \n Syringes. \n Rubber tube \n Lifting arm of crane should be of either wood or fiber. \n Scrap materials, nuts, bolts, nails and screws.\n\n"
+"NOTE: USE OF ANY TYPE OF METAL STRIP IN CRANE(ARM AND BASE) IS STRICTLY PROHIBITED.\n\n"
+    </string>
+
+    <string name="Earth">
+
+"Here, we have to made such a structure using popsicle sticks and Glue that can not only sustain vertical loading but also can bear the seismic waves produced due to Earthquakes.\n"
+
+
+"Format of Event\n
+
+1.Participants have to make the structure model at the venue of event.\n
+
+2.Model should be strong enough to bear vertical load and flexible enough to survive against E-Quake vibrations.\n
+
+3.Beside the testing, Team which make the model in less time with required specifications, will have advantage and will gain more points.\n
+
+4.There will be 2 TESTs to be conducted on the prepared model.\n"
+        "RULES\n
+1.A team can have a max. of 3 members.\n
+
+2.Max. 3 hrs. will be provided to make the structure model.\n
+
+3.Team members must not have to bring any type of items from outside related to the event at the venue.\n
+
+4.Each and everything u need will be provided there.\n
+
+5.All the Participants must follow the Disciplines during the event\n"
+
+        "Specification of Structure\n
+1.The Structure should have minimum 3 storeys.\n
+
+2.The minimum height of each storey should be of 15 cm\n
+
+3.The overall height of the model should be of 50 cm\n
+
+4.Side wall should not be completely closed\n
+
+5.Roof must be covered\n\n"
+
+        "JUDGING CRITERIA\n
+You will gain points on account of fulfilling the following criteria.\n"
+"STAGE: 1 (Bonus Points)\n"
+"         Time of construction\n"
+"         Sticks used\n"
+
+"STAGE: 2 (Qualifying round)\n
+Model should fulfill the following requirements to qualify for the tests to be conducted:\"
+
+"        Minimum no. of storey.\n"
+"        Individual floor height\n"
+"        Overall height of model\n"
+"        Side wall.\n"
+"        Roof\n"
+"STAGE: 3 (Test to be conducted)\n"
+"        VERTICAL LOADING TEST:\n
+Structure should be strong enough to bear minimum specified VERTICAL LOADING.\n"
+
+"        SHAKE IT UP TEST:\n
+After vertical loading, model will undergo EARTH-QUAKE VIBRATION TEST.\n"
+
+"Test models are fixed to the platform of SHAKE TABLE and shaken, often to the point of failure.\n\n"
+
+    </string>
+
+    <string name="Setu">
+"GUIDLINES\n
+        1.Minimum clear span of 40cm. Maximum bridge length of 50cm.\n
+2.Laminated members are not allowed(except joints).\n
+3.The bridge weight should be in accordance with judgement creiteria.\n
+
+4.Members may not be wider than 3cm and deeper (max thickness) than 2cm except cross girders max 4cm.\n
+5.The bridge deck must extend the entire length of the bridge and maintain a "vehicular roadway" without any obstruction (12cm wide x 15cm high). The bridge deck shall be level (or flat) and shall not be curved (or arched).
+The bridge deck shall be constructed using a single, solid, thermocol sheet. The bridge deck should be the full width of the vehicular roadway and extend the entire length of the bridge's longest dimension.\n
+
+6.To allow for testing, there must be a hole at mid-span in the bridge deck fitted with hook bolt(provided). There must be no obstructions below the hole that would prevent the passage of the testing rod\n
+
+7.The model bridges will be loaded initially with only the bucket and testing apparatus.\n"
+       " SPECIFICATION\n
+
+1.The materials used in the construction of the bridge shall consist only of provided materials(1 thermocol sheet,cutter,Tape,pins).\n
+
+2.The members must not be laminated with tape throughout the length.\n
+
+3.The bridge shall contain no member wider than 3cm and deeper than 2cm(max thickness). This member size requirement does not apply for the cross girders, they can be no wider than 4cm and thicker than 2cm. Individual members shall be constructed of a single piece of thermacol sheet. elaminated members are not allowed.\n
+
+4.The bridge shall be a minimum of 12cm wide and must allow a 12cmx 15cmx15cm cuboid to be passed along the length of the bridge ("vehicular roadway" with no obstructions, referenced above). The maximum length of the bridge shall be 50cm\n
+
+5.The bridge must have a minimum clear span of 40cm between supports.The bridge shall be freestanding.\n
+
+6.The bridge deck shall be the full width of the vehicular roadway and extend the entire length of the bridge's longest dimension. There must be a hole fitted with hook bolt(provided) at mid-span in the bridge deck to allow for testing. There must be no obstructions below the hole that would prevent the passage of the testing rod.\n"
+
+        "JUDGING CRITERIA\n
+
+Maximum [(LOAD/WEIGHT)x10].\n
+
+DEFLECTION=should satisfy servicibility criteria,After 5mm deflection for every 2mm negative marks will be rewarded.\n
+
+MINIMUM TAPE USED .\n
+
+.Minimum Number of Pins.\n
+
+TIME=Reference time 2hours,participants completing task before 2hrs will be rewarded with bonus marks per 5minutes.\n\n"
+
+
+    </string>
+    <!--  -->
+
+    <!-- Autonomous -->
+     <string name="terry">
+         "Bot specification:\n
+1) The autonomous bot to be prepared must be specifically within 25cm*20cm*20cm (l*b*h) in dimensions.\n
+2) The bot could be provided power supply either externally or can have an on board supply as per the convenience of the participants.\n
+3) The bot must not in any way found damaging the arena.\n
+4) Potential between any two points on the board should not exceed 25V (however the overall potential could exceed).\n\n"
+
+"Event Description:\n
+1.	There will be two bots named TOM and JERRY. Now, as the name suggests-Tom is a stupor and a strong boy whereas Jerry is a small and clever boy.\n
+2.	Jerry has to cross the puzzle and will get 100 points for this.\n
+3.	Tom is happy that he will chase Jerry and won’t let him win.\n
+4.	There is Tom’s house in the centre of the puzzle. Jerry crosses over Tom’s house in order to distract Tom.\n
+5.	Jerry losses 20 points for each time he crosses Tom’s house, but is successful in distracting Tom.\n
+6.	As a/c to the rules, if Jerry crosses the house, stupor Tom will first have to cross his house before he could chase Jerry.\n\n"
+""WILL JERRY PROPERLY UTILIZE THIS TIME AND SUCCESSFULLY CROSS THE PUZZLE OR WILL TOM CHASE JERRY EVEN AFTER BEING DISTRACTED……..!!!"\n\n"
+         "RULES:\n
+1.	The team has to be present at the event place within 5 minutes of final call otherwise they will be disqualified.\n
+2.	The timing of the team would be started once the instructor gives the signal to start the bot.\n
+3.	Each team will have to run and chase alternatively.\n
+4.	A maximum of 5 minutes will be given for runner bot to cross the puzzle. The runner bot losses 10 points for using each extra minute.\n
+5.	Neither team is allowed to halt in the arena.\n
+6.	The  chasing bot is not allowed to halt near the end point.\n
+7.	Power supply should not exceed 12V.\n
+8.	The bot should not damage the arena in anyway.\n\n"
+
+"Judging Criteria:\n
+1.	 The runner team will be awarded 100 points for successfully completing the puzzle.\n
+2.	The runner team losses 5 points for each time it touches the arena’s wall.\n
+3.	The runner team losses 20 points for each time it crosses the redpoint. (However it is not mandatory to cross the redpoint).\n
+4.	At the end the team securing the highest points would be the winner.\n\n"
+
+"Team Members:\n
+1) A team would comprise a maximum of 4 members.\n
+2) The team members should submit their name before commencement of the competition ALONGWITH A TEAM NAME.\n\n"
+
+
+
+"IN CASE OF ANY DISPUTES DURING THE COMPETITION, THE FINAL DECISIONS OF THE INSTRUCTORS WOULD BE GIVEN THE PRIORITY.\n"
+    </string>
+
+     <string name="snako">
+"BOT SPECIFICATIONS:\n
+1)The autonomous bot to be prepared must be specifically within 25cm*20cm*20cm(l*b*h) in dimensions.\n
+2)The bot could be provided power supply either externally or can have an on board supply as per the convenience of the participants.\n
+3)The bot must not in any way found damaging the arena.\n
+4)Potential between any two points on the board should not exceed 25v(however the overall potential could exceed).\n\n"
+
+"GAMEPLAY:\n
+ROUND 1:\n
+1. IT is a qualifying round.\n
+2. The participant who will follow the path from starting to ending point will be qualified for next round.\n
+3. Maximum 3 hand touch are allowed.\n
+4. This round will consist simple turns or simple 90 degrees turn.\n
+5. However if the bot completes the task on time, bonus Marks (300 - seconds used) would be awarded.\n
+6. For stopping at stop point additional 20 Marks will be awarded.\n
+7. For indicating at stop point 20 Marks will be awarded.\n
+8. For each hand touch 10 20 30 marks will be consecutively deducted\n\n"
+
+"ROUND 2:\n
+1)A maze will be provided follow the maze and reach to end point\n
+2)The actual arena would comprise of 4 checkpoints and the team would be awarded with 30 Marks for crossing each checkpoint(however it is not mandatory to cross all the checkpoints.)\n
+3)For stopping at stop point additional 20 Marks will be awarded.\n
+4)For indicating at stop point 20 Marks will be awarded.\n
+5)A total of 5 minutes would be provided to each team to complete both the rounds and if failed the bot would be disqualified.\n
+6)For each hand touch 10 20 30 marks will be consecutively deducted however Maximum 4 hand touch are allowed in the 2nd round.\n
+6)However if the bot completes the task on time, bonus points (300 - seconds used) would be awarded.\n\n"
+
+"RULES:\n
+1.	The timing of the team would be started once the instructor gives the signal to start the bot.\n
+2.	Only a single team member would be allowed near the bot during the run.\n
+3.	All the bots must be submitted before starting of the actual competition.\n
+4.	However initially time would be provided to all the teams for the caliberation of the sensors and the rest components before commencement of the actual competition.\n
+5.	The restart have to be taken from the start line again.\n
+6.	 The bot reaching the end point first will qualify that round.\n
+7.	The bot reaching the end point first in the final round will be the winner.\n
+8.	The arena will be disclosed 10 minutes before the event starts.\n\n"
+
+"JUDGING CRITERIA:\n
+1)The teams would be awarded 30 points for crossing each checkpoint.\n
+2)An additional 50 points would be provided to complete the DETECT RUN completely.\n
+3) The teams wont be given any bonus time after 5 minutes.\n
+4)At the end the team securing the highest points would be the winner.\n
+5)No points would be deducted of the teams taking the restart.\n
+6)if game is tied in 2nd round between any participants result of 1st round and accuracy of bot will be taken in consideration\n
+
+"TEAM MEMBERS:\n
+1)A team would comprise a maximum of 4 members.\n
+2)The team members should submit their name before commencement of the competition ALONG WITH A TEAM NAME.\n\n
+POINTS TO BE TAKEN CARE TO AVOID DISQUALIFICATIONS:\n
+1)No team in any condition would be given additional time.\n
+2)Total of 5 minutes to each team would be provided, otherwise the team would be disqualified.\n
+3)Once started the bot should not be touched manually (inspite of the condition to take a restart), otherwise the team would be disqualified.\n
+4)The bot should not damage the arena in any way.\n\n"
+"IN CASE OF ANY DISPUTES DURING THE COMPETITION, THE FINAL DECISIONS OF THE INSTRUCTORS WOULD BE GIVEN THE PRIORITY.\n\n"
+    </string>
+
+     <string name="nfs">
+"BOT SPECIFICATIONS:\n
+1.	The autonomous bot to be prepared must fit in a box of dimensions  25cm*20cm*20cm(l*b*h).\n
+2.	The bot could be provided power supply either externally or can have an on board supply as per convenience of the participants.\n
+3.	The bot must not found damaging the arena.\n
+Potential between any two points on the board should not exceed 25V (however the overall potential could exceed).\n\n"
+"GAMEPLAY:\n
+1.	In arena there will be two symmetrical paths each having a start point and a end point.\n
+2.	The game would comprise of many rounds.\n
+3.	In each round the bot has to compete with the other bot to reach the end point traversing the path from start to end point.\n
+4.	The one who reach the end point first, will be qualified for next round.\n
+5.	The winner will be decided in final round played by  the two  finalist .\n\n"
+"RULES:
+1.	The timing of the team would be started once the instructor gives the signal to start the bot.\n
+2.	Only a single team member would be allowed near the bot during the run.\n
+3.	All the bots must be submitted before starting of the actual competition.\n
+4.	However initially time would be provided to all the teams for the caliberation of the sensors and the rest components before commencement of the actual competition.\n
+5.	A total of 3 restarts would be provided to each team.\n
+6.	The restart have to be taken from the start line again.  \n
+7.	 The bot reaching the end point first will qualify that round.\n
+8.	The bot reaching the end point first in the final round will be the winner.\n
+9.	The team has to be present at the event place within 5 minutes of the final call otherwise they will be disqualified.\n
+10.	The arena will be disclosed 10 minutes before the event starts. \n\n"
+
+"TEAM MEMBERS:\n
+1.	A team would comprise a maximum of 3 members.\n
+2.	The team members should submit their name before commencement of the competition ALONGWITH A TEAM NAME.\n\n"
+"NOTE: \n
+IN CASE OF ANY DISPUTES DURING THE COMPETITION, THE FINAL DECISIONS OF THE INSTRUCTORS WOULD BE GIVEN THE PRIORITY.\n\n"
+    </string>
+
+    <string name="logic">
+  "At max 2 members are allowed in a team.\n
+
+There will be 2 rounds.\n"
+
+        "ROUND 1\n
+Its a quiz, contains total 30 question. Questions are based on boolean algebra , logic gates and digital circuits.\n\n
+
+1.Each correct answer will give 3 Marks.\n
+
+2.Each wrong answer will give -1 Marks.\n
+
+3.Level Of questions is- 10 easy type, 15 medium and 5 tough.\n
+
+4.If there is a tie b/w teams in round 1, the one who register earlier will be promoted to next round\n
+
+5.For question having more than one answer there will be partial marking.\n
+
+6.Only the best five team will qualify for round 2.\n\n"
+
+       "ROUND 2\n
+In this round participants will do practical like thing to get desired output. It consist of digital circuit designing . Question are display on screen through projector. Questions are based on daily life problem and contestant have to design the solution circuit for particular problem.\n\n
+
+1.It will be a knockout round(On Time Basis)\n
+
+2.The team who stand last will be declared as a winner.\n
+
+3.Only two winners will be selected for 1st and 2nd position only.\n
+
+4.If there is tie up between any two teams then rematch will be organised between them\n\n"
+</string>
+<!--
+    <string name="mania1">
+
+        "ROUND 1\n"
+
+"All participating teams will submit an abstract of max. 250-300 words giving basic overview of the plan which is to be mailed before 15 JAN 2017 to itisingh073@gmail.com.\n
+
+ABSTRACT SUMMARY\n"
+
+"       Startup-theme\n"
+"       What is your vision\n"
+
+"ROUND 2\n
+
+All shortlisted teams will present their startup plan in front of an elite panel of judges in Equilibrio.\n"
+        "Judges will evaluate on the following criteria.\n"
+
+"40% - quality of startup plan\n"
+
+"   Market need of product or services.\n"
+"   Market potential for your product.\n"
+"   Financial forecasts.\n"
+"   Competitive advantages.\n"
+
+"40 % - impact of presentation.\n"
+
+"   Provide evidence of a market.\n"
+"   Provide evidence of ability to execute.\n"
+"   Provide evidence of a return on investment.\n"
+
+"20% - judges assessment of idea potential\n\n"
+
+
+    </string>
+-->
+
+
+    <string name="neeti">
+        "There will be two rounds of the event.\n
+Maximum no. of member is 3.\n
+Description:\n
+1.	In the first round, an unknown project will be given to the participants.\n
+2.	Some definite capital will be decided for their project by Event Coordinator.\n
+3.	Participants will have to prepare a paper project to utilise the   capital provided.\n
+4.	From first round best five teams will be selected for second round.\n
+5.	In second round some constraints will be provided for their project by respective judges.\n
+6.	Then Participants have to re-plan their project and optimize their profit.\n
+7.	According to their final profit-loss statement winner will be chosen.\n\n"
+
+    </string>
+
+
+     <string name="paper">
+         "Format of the Event:\n
+This is team based event.\n
+Maximum number of member is 3.\n\n"
+"Event consists of two rounds:\n
+Round 1:\n
+        1: This round consists of abstract submission.\n
+        2:  one can select any topic of their choice and have to mail their\n
+         Research abstract.\n
+        3: the abstract should be in following format\n
+            A: title of idea\n"
+ "   B: definition\n"
+ "   C: solution\n"
+ "   D: results and discussions\n"
+ "   E: application\n\n"
+"4: required file type MS word or PDF\n
+5: preferred font would be times new roman with a text size
+    of 12 point size and headings of 14 point size\n
+6: last date for submission will be 15th jan till 5pm.\n
+7: top 10 teams selected for final round will be announced by
+    16 th jan till 5pm.\n\n"
+"Round 2:\n
+1: each of the selected team has to come with a presentationn
+    on the day of final round with one copy each of soft and hard
+    copies.\n
+2: each team will have a 15 min time slot in which presentation
+     should be limited to 10 min or lesser followed by which
+     there will be a questionnaire round by judge panel.\n
+3: on the basis of imagination, originality and freshness of your
+     Ideas top 2 teams will be decided winner and runner.\n
+4: In case of any dispute, judges decision will be final and
+    binding.\n\n"
+     </string>
+
+     <string name="job">
+"Format of the Event:\n\n"
+"The complete event consists of three rounds.\n
+It is a single participant event.\n\n"
+"Description:\n
+It is a only event which not only give you a rough idea for your upcoming job selections procedure but also prepare you for your dream because any big exam have these three barriers on their way.\n\n"
+"Round 1: \nThis will be of 1 hour (several time slots available)\n
+This will be an aptitude test based on real aptitude. This will be an elimination round. The participants who will qualify round 1 will move to the next round.\n\n"
+"Round 2: \nThis will be of 15 minutes. This round will consist of a group discussion. This is again an elimination round. Students will be given a topic. From each group we will select some participants and they will move to the next round.\n
+Rules and regulation for GD round will be illustrated at that instance only.\n\n"
+"Round 3: \npersonal interview round. This is a final round. This will include some situation based and general equation.\n\n"
+     </string>
+    <!-- -->
+    <!-- Quizzard -->
+    <string name="technical">
+        "1.	Team size : two members\n"
+        "2.	Written elimination round  followed by finals on stage.\n
+         3.	In the finals the quizmaster will explain detailed rules before conducting every round.\n
+         4.	Use of all electronics devices are prohibited .\n
+         5.	The quizmaster’s  decision will be  final and binding.\n\n"
+
+    </string>
+
+     <string name="general">
+1.There will be a written elimination test followed by a final round.\n
+
+2.Each team will have a maximum of two participants.\n
+
+3.Five teams will be selected for the final round.\n
+
+4.2 teams will be selected -the winners and the runners-up respectively. The winners will be the team with maximum points at the end of 5th level.\n
+
+5.The decision of quizmaster will be final in any case of disagreement by the teams.\n
+
+6.Single participant will be allowed in the case of no teammate but changing of the team members after getting selected will naturally get the team disqualified.\n
+
+7.The teams not reaching on time at the venue will be disqualified\n
+
+8.The points and the rules related to the passing of questions and the tiebreaker will be decided by the quizmaster\n
+
+9.The quiz committee will have the right to change any of the above stated rules if deemed fit.\n
+
+    </string>
+
+     <string name="bizquiz">
+"1.There will be a written elimination test followed by a final round.\n
+
+2.Each team will have a maximum of two participants.\n
+
+3.Five teams will be selected for the final round.\n
+
+4.2 teams will be selected -the winners and the runners-up respectively. The winners will be the team with maximum points at the end of 5th level.\n
+
+5.The decision of quizmaster will be final in any case of disagreement by the teams.\n
+
+6.Single participant will be allowed in the case of no teammate but changing of the team members after getting selected will naturally get the team disqualified.\n
+
+7.The teams not reaching on time at the venue will be disqualified.\n
+
+8.The points and the rules related to the passing of questions and the tiebreaker will be decided by the quizmaster.\n
+
+9.The quiz committee will have the right to change any of the above stated rules if deemed fit.\n"
+
+    </string>
+    <!--   -->
+
+    <!-- Gaming -->
+    <string name="fifa">
+     "Round 1:\n
+1.Knock Out\n
+2.Both international and clubs will be used in first round.\n
+3.Winners will go the next round.\n\n"
+
+"Round 2:\n
+1.Knock Out\n
+2.All international teams and clubs allowed-winners of each knock out tie will go to the next round-knock out stages.\n
+3.Home and away matches are played-includes the away goals rules.\n
+4.In case of same score line penalities will decide the winner.\n
+5.The parcipants can bring their own choice of controllers like joystick.\n\n"
+
+        "RULES\n\n
+
+1.There would be two games:home and away.\n
+2.Coin toss shall be done for choosing home/away match.\n
+3.Away goal would get more preference.\n
+4.Each player can choose their own team.(only club or country).\n
+5.They can have their own controller settings.\n
+6.If a player can edit those controllers then they can change otherwise we would change based on their preferances.\n
+7.If they choose same team then both of them can take the same team but with different jerseys.\n
+8.Each game would be 10 minutes;a half being that of 5. minutes\n
+9.In case both the participants score equal goals in two games then third match would be played,which would be of 8 minutes and the final game would proceed to penaality shoot out without extra time.
+10.Games are based on knock out rules and the winner shall proceed to next round.\n
+11.Games are not supposed to be escaped once started,hence we request everyone to start game after all settings.\n\n"
+
+    </string>
+
+    <string name="cs">
+      "RULES\n
+
+1.Competition Method: 4 vs 4 (team play,4 players per team)\n
+
+2.Version:Counter Strike Source\n
+
+3.Round time: 1 minute 45 seconds\n
+
+4.The team playing as the terrorist side first will be announced before the match by a toss\n
+
+5.Maps will be given on spot\n
+
+6.Approved grenade amounts per round\n"
+"   Flash bangs:2\n"
+"   Grenades:1\n"
+"   Smoke grenades:1\n"
+
+"7.Short guns,shields,automatic sniper are not allowed.\n
+
+8.Any player or team caught breaking a rule or performing an infraction will be subject to disqualificaton\n
+
+9.Cash of Rs.800 will be provided at the start.\n\n"
+
+        "MAP POOLS\n
+
+
+1.de_dust 2\n
+
+2.de_inferno\n
+
+3.de_nuke\n
+
+4.de_train\n\n"
+
+    </string>
+
+    <string name="mini">
+
+        "RULES\n
+
+1.Game mode : Local death match(single and team)\n
+2.Time : 6mins 30 secs\n
+3.Player should bring his own device.\n
+4.The match consists of only one round. The winner of the round will be awarded.\n
+5.If once the plater forfeits the match,the player will be disqualified.\n
+6.The mini militia app will be provided on spot.\n
+7.Any protests or disagreements with game rulings must be made directly to the organiser in a resonable manner at the time of the incident,at which time a prompt decision will be made.\n
+8.The organiser decision will be the final decision.\n
+9.Any competitor attempting to use any exploit (cracks and hacks)in a map shall be immediately disqualified any may be removed from the event.\n
+10.The game organizers reserve the right to cancel or modify the game rules if technical failures or any other factor beyond resonable control,impairs the integrity of the game.\n
+11.The winner of the game is decided based on the net points (or no of kills if the net points of two or more players or equal).\n\n"
+
+        "MAPS\n
+1.no escape\n
+
+2.catacombs\n
+
+3.outpost\n
+
+4.bottle neck\n
+
+5.high tower\n\n"
+    </string>
+    <!-- -->
+
+    <!-- cultural -->
+    <string name="funzone">
+        "RULES\n
+
+1.It shall be defined on the spot by our anchor\n"
+
+"REMARK\n
+
+1.Rules should be followed in a suitable manner violation of any rule will lead to the elimination of participant\n"
+
+        "JUDGEMENT CRITERIA\n
+
+
+Participant shall be judge on the basis of their\n
+1.Performance\n
+
+2.Activeness\n
+
+3.Discipline\n\n"
+
+
+"DISCLAIMER: - Don’t take it seriously the intention for proposing such games is only for creating some fun and memories. Don’t create the enmity with other when you loosed to someone.\n\n"
+
+    </string>
+    <string name="coa">
+        "ROUND 1\n
+        Candidates are asked to submit a 2 minutes video of their dance for elimination round at hospitality desk by 8th Jan 2017.\n
+
+10 solo and 5 group performances will get selected for the final onstage round.\n
+        Note:\n
+        Videos can be sent to codequilibrio2k17@gmail.com or handed over at helpdesk.\n\n"
+
+        "ROUND 2\n
+
+The final decision of winners would be taken by the 3 judges on the aspects of dance steps, expressions, clarity and costumes.\n\n"
+
+        "RULES\n\n
+1.Candidate can't perform multiple times.\n
+
+2.The song should not exceed 10 minutes.\n
+
+3.Costumes and props must be brought by the participants themselves.\n
+
+4.No vulgarity would be allowed.\n
+
+5.Selected participants must be present at the venue half hour before the starting of event.\n
+
+6.Decision of judges would be final and can't be changed.\n\n"
+
+    </string>
+
+    <string name="lca">
+
+        "Format Of the Event\n\n
+
+1.Screening\n
+In this round there will be internal segregation of the short films.\n\n
+
+2.Finale\n
+In this round the shortlisted candidates will be invited to attend the finale in our university campus where their short film will be presented before the elite judge's panel.\n\n"
+
+        "RULES\n\n
+1.Duration of the movie: 15 minutes.\n
+
+2.Send the YouTube link of the short film to lca2k17movie@gmail.com. The last date for submission is 15/01/2017\n
+
+3.Short film should be original. It will be disqualified if it found to be copied from any other short film\n
+
+4.There is no other restriction on the theme (vulgarity should be strictly avoided).\n
+
+5.Short film should contain English subtitles if it is in regional language.\n
+
+6.here is no limitation on the number of members per team and multiple entries are allowed.\n
+
+7.Judges decision will be the final one.\n\n"
+
+        "JUDGEMENT CRITERIA\n\n
+1.Cinematography\n
+
+2.Script/story line.\n
+
+3.Editing and ultimately.\n
+
+4.Direction\n
+
+5.Acting.\n\n"
+
+    </string>
+
+    <string name="bob">
+        "Format Of the Event\n\n
+
+        Screening\n
+Bands must consist of at least three members, one of which plays an instrument throughout the majority of the performance.\n
+All performers must be between 10 to 25 years of age. Band must be unsigned.\n
+The entire performance must be live – no pre-recorded music is allowed.\n
+Bands must submit the registration form.\n\n"
+
+"Video/audio clip:\nwith each song in a separate ﬁle. Registration forms and demo video can be emailed:\n"
+
+"Finale\n
+In this round, finalists (5) bands must play 3 or 4 songs no longer than 5 minutes each.\n
+All groups/bands will be allotted a 15-20mins show and not to exceed 20 minutes or else 1 point will be deducted from the overall score every second over the time specified.\n\n"
+
+
+        "RULES\n
+
+1.All bands agree to have their name, voice, and/or likenesses used in any advertising or broadcasting material relating to this contest without any compensation or rights to royalties for such use.\n
+2.Band members must provide all musical instruments and equipment necessary for their performance, the sound system will be supplied.\n
+3.Band members are responsible for the security of their equipment and the event organizers cannot be held liable for any lost, damaged, or stolen equipment. 4. Fires, pyrotechnics, fog machines, etc. are not allowed\n
+4.Group/Bands members must appear 30 min prior to performance to check in, failure to comply will result in disqualification.\n
+5.On the day of the performance, band members must be dressed in clothing free from obscenities, drugs, alcohol, sex, or any other subject matter not suitable for a family audience.\n
+6.The entire performance must be violence-free and suitable for families.\n
+7.Bands must report to the staging at their designated set-up time and remain on-site until the end of their performance.\n
+8.Finally, all bands must be present for the announcement of the winners. Any bands not present at the required times may be disqualified.\n\n"
+
+
+        "JUDGEMENT CRITERIA\n
+
+
+A panel of judges will score musicians using a point system. Criteria to be considered include: Stage Presentation, Sound Volume and Clarity, Band Synchronization, Time Management, Song Quality and Originality, Stage Management, Band Enthusiasm and Attitude, and Audience Response. Judges will award points in each category using a point system. If bands end up in a tie, the following individual category scores will decide the winner (in order): Stage Presentation, Song Quality and Originality, and Audience Response.
+Judging is done on a 1-50 scale by 3 judges.\n\n
+
+The criteria on which the bands will be judged is:\n
+MUSIclarity of sound,\npitch-tone-beat-rhythm,\noriginality,\noverall performance.\n\n
+
+PRESENTATION: \npreparedness, audience connection, quality of performance\n
+
+APPERANCE: \nOverall look of band creativity.\n\n"
+
+All competing bands are strongly encouraged to promote spreading the word regarding the Taal sangram event and the equilibrio and related festivities as crowd interaction and response will be part of the judging criteria.\n\n"
+    </string>
+    <!---->
+
+    <!-- Mechatronics-->
+    <string name="robowar">
+        "Rules for winning:\n\n
+
+1.For round 1 and round 2 winner will be decided on the point basis.\n
+
+2.The teams qualifying the first two round will be allowed to fight in the third round which will be of knockout basis.\n
+
+3.A bot wins if its opponent is immobilized or thrown out of the arena, In case both the robots remain immobilize at the end of the round, the winner will be decided under the rules as discussed in the scoring pattern.\n
+
+4.Robots cannot win by pinning or lifting their opponents. It will be allowed for a maximum of 15 seconds.\n\n"
+
+"Scoring:\n
+
+1.Pushing a bot into a danger zone (red) will fetch 150 points.\n
+
+2.Cut mark (clearly visible) will fetch 50 points.\n
+
+3.Any body part completely removed from a bot will fetch 250 points.\n
+
+4. Completely lifting of opponents bot will fetch 100 points. Robots cannot win by pinning or lifting their opponents. It will be allowed for a maximum of 15 seconds.\n\n"
+    "Size and Weight:\n
+
+1.The machine should fit in a box of dimension 750mm X 750mm X 1000 mm (1 X b X h) at starting point of the match.\n
+2.The external device used to control the machine or any external tank is not included in the size constraint.\n
+3.Weight of the robot should not exceed 60Kg +50/o tolerance (pneumatics/ tanks included). If the tank is external, its weight would be considered. \n
+4.Weight of external power source (batteries and adaptors) will not be counted. Weight of wireless wheeled robots will be counted.\n\n"
+
+        "RULES\n
+1.The competition will be played on a point's basis.\n
+2.The organizers reserve the right to change any of the rules as they deem fit.\n
+3.Violation of any of the rules will result in immediate disqualification.\n
+4.The maximum time limit for the clash of combatants inside the arena is 10 minutes.\n
+5.A bot will be declared immobilize (out) if it cannot exhibit linear motion of at least one inch within 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.\n
+6.Teams that are not ready when called for battle will be considered to have declared a walkover, and will receive no points.\n
+7.The bot cannot be split into two subunits. Two distinct parts connected by a flexible cable will be considered separate units.\n
+8.Damaging the arena will lead to immediate disqualification.\n
+In all cases, the judge's decision will be final and binding.\n\n"
+
+    </string>
+
+    <string name="f1">
+        "RULES\n
+1.The team will have a maximum of 5 students.\n
+2.There will be a qualifying session with each team getting 3 laps out of which the faster lap will be considered.Note that these laps will have to be taken successively.\n
+3.The top teams from the qualifying rounds will make it to the second round.\n
+4.After the qualifying round, there will be races between multiple cars at a time. So the participants must use a remote with frequency of band spectrum 2.4 GHz.\n
+5.The track will have check points at regular intervals. If a machine tumbles, halts or goes off the arena at any point on the track, one of the team members is allowed to lift it up and place it at the nearest checkpoint behind that point. The time shall still be running in the meantime.\n
+6.Team members are not permitted to touch either their machines or those of their opponents once the race begins The penalty for doing so is disqualification\n
+7.In the qualification round, a maximum of two team members are allowed from a team in the racing arena while in the final round only one of the team member will be in the racing arena except the controller on the stand.\n
+8.The machines are not allowed to leave any loose parts on any part of the arena. Any machine disintegrating during the race will be disqualified.\n
+9.Teams are not allowed to purposefully damage the machine of the opponent's team. If found doing so on track (while racing), the concerned team will be disqualified.\n
+10.If car goes off the track i.e three wheels of the car are on the rope then should be brought back to the nearest checkpoint.\n\n"
+
+        "Qualifying Round:\n
+1.The speed and braking attributes of the car would be put to test in this round.\n
+2.Each team will be getting 3 laps out of which the faster lap will be considered. Note that these laps will have to be taken successively.\n
+3.A car making two invalid attempts would undergo automatic disqualification.\n\n"
+
+Main/Second Round:\n
+1.Main/second round consists of parallel racing between two qualified cars.\n
+1.The format of the round would be knockout. Seeding system will be followed while deciding the initial draw. The draw would be based on the first round ranking.\n
+2.No of cars competing each time will be revealed before the race.\n
+3.Each race would be of 3 laps. Cars successfully finishing all the three laps will be considered as completed.\n\n:
+    </string>
+    
+    <string name="soccer">
+
+        "Bot Specification:\n
+
+1.Maximum dimension limit of bot is 30cm×30cm×25cm (l×w×h).\n
+
+2.Grabing and blocking mechanisms are not allowed..\n
+
+3.The motors to be used for bot’s motion is within the range of 0-300 rpm. It will be checked in different conditions.\n\n"
+
+"Power Supply:\n
+
+1.supply of 220volt, 50hz ac will be provided.\n
+2.Teams will have to bring down the voltage less than 12 volts 2 amp.\n
+3.The voltage at any point on the electrical connections should not exceed 12v.\n
+4.Rechargable batteries are also allowed.\n
+5.The wireless bot should have its own power supply.\n\n"
+
+        "GAME PLAY:\n
+1.Teams will have to play a football match against other team.\n
+2.2:30 minutes will be provided for each team for pregame setup and testing.\n
+3.The match will be of 15 minutes (two halves of 6 minutes and 3 minutes for maintenance.)\n
+4.A defender block of dimension 10cm*5cm*5cm will be provided for each team which can be set at the initiation of each half by participating team members on defendive arc.\n
+5.The game will be started on the count of three by the referee.teams making mistakes during start more than twice will be punished by -2 points.\n
+6.Bot will be placed at start zone of the arena at the starting of the match.\n
+7.In case of zam up of bots for more than 15 seconds, the ball will be kicked off against the command of the referee.\n
+8.In case of bot problems during match (only motor problem, connection loose), maximum of 15 minutes will be given for repair with -1 point for each 5 minutes.\n
+9.For each goal +10 points are awarded.\n
+10.In powerplay of 1 minute (3-4 minute) of each half, +15 points are awardedfor each goal.\n
+11.During (5-6) minute of each half defenders will be removed from both side.\n
+12.Teams with maximum points will be winner.\n
+13.In case of tie, a golden goal rule will be applied.the team scoring first in extra time will win the match. for semifinals and final match arena will be different (but dimensions of arena will be same).\n\n"
+
+
+        "RULES\n
+1.Each team must have maximum three members.\n
+
+2.Teams will have to submit their bots before an hour of starting the event.\n
+
+3.Any type of changes or modification are not allowed after submiting bot.\n
+
+4.Ready made logo kit and ic engine are not allowed.\n
+
+5.Ready made gear assemblies can be used.\n
+
+6.Bots will not be allowed which are found unsafe for other teams or spectators.\n
+
+7.The ball will be dragged, pushed or kicked by bot.\n\n"
+
+        "RULES FOR FOUL\n
+1.Any type of intentional damage caused to apponent team’s bot will be considered as foul.\n
+
+2.If bot hits defender of opponent team.\n
+
+3.If a team member touch the bot during match, it will be considered as foul.\n
+
+4.In case of foul a free kick will be given to the other team from fix arc ‘y’ point during which bot of the team committing the foul will be freezed at freeze point.\n
+
+45.Decision of the referee will be final.\n\n"
+
+        "DISQUALIFICATION:\n
+1.If a team fails to adhere to size of bot as specification.\n
+
+2.If a team damages the arena in any way.\n
+
+3.If a team commits repeated fouls more than five times.\n
+
+4.Teams may be disqualified on disciplinary grounds.\n\n"
+
+"NOTE – team coordinator reserve the rights to change the rules at any point of time as they deem fit. The change will however be highlighted on the website\n\n"
+    </string>
+
+<string name="design">
+    "RULES:\n
+1.All participants have to bring their own laptop, mouse etc. Participants will be responsible for working condition of their system.\n
+
+2.Given design have to be made in CATIA, Pro-E, solid woks, AutoCAD and other software for which workshop would be done.\n
+
+3.After Completing their design they have to submit the files in following four formats\n"
+"   Default format of the files depending on the software they have used and the workbench(s) used in designing the model.\n"
+"   Three more CAD file formats, .step, .igs and .stl.\n\n"
+
+    "ROUND 1\n\n
+Number of Members in a team \n"
+"  For 1st and 2nd year : 2 persons, 2 computers\n
+"  Others : 1 person, 1 computer\n"
+
+"Task :\n
+    Make as much models as you can within given period of time.\n"
+
+"Number of parts to be made : \n
+    As much as you can out of given ten part models.\n"
+
+"Total time : 30 minutes.\n"
+
+"Problem will be presented in : 2D sketch containing different normal views and one isometric view.\n\n"
+
+    "ROUND 2\n\n
+Task : Design the required assembly given in problem statement.\n\n
+
+No. of assemblies to made : One\n\n
+
+Time : 100 minutes.\n\n
+
+Problem will be presented in : Two formats\n\n
+Problem Statement in text describing aim and function of the assembly.\n
+
+2-D sketches of parts containing isometrics and projection views.\n\n"
+</string>
+
+    <string name="aqua">
+"Bot Specification:\n
+
+1.Maximum dimension of bot 35cm×30cmx30cm (length×width×height)\n
+2.The motors to be used is within the range of 0-300 rpm. It will be checked in different conditions.\n
+3.Bot can be wired or wireless.\n
+4.Use of aurdino is allowed.\n\n"
+
+"Power Supply:\n
+
+1.Supply of 220volt, 50hz ac will be provided.\n
+2.Teams will have to bring down the voltage less than 19.5 volts.\n
+3.The voltage at any point on the electrical connections should not exceed 19.5v.\n
+4.Rechargable batteries are also allowed.\n
+5.The wireless bot should be fully charged at the start of performance.\n\n"
+
+       "ROUND 1:\n
+1.There will be arena with well-designed path.\n
+
+2.The teams are required to cross the pool from starting point to end point. Timer will stop only when bot will burst the balloon located at the end point.\n
+
+3.No of teams qualifying for the next round will be decided by organizer.\n
+
+
+4.According to the points collected by each team, merit list will be made. No of teams qualifying for the next round will be decided on the basis of that merit list.\n
+
+Note:-the arena shown below is just a model.arena will be similar but not exactly the same .\n\n"
+
+
+        "ROUND 2:\n
+1.In this round again in the same pool there will be a path and qualifying teams will have to reach to end point performing given task and burst the balloon at the end point.\n
+
+2.The additional task in the second round is to grab the particles of different shapes floating inside the pool and put into the box provided inside pool.\n
+
+3.Different shapes will have different points based on its difficulty level.\n
+
+4.Merit list will be made on the basis of points collected by each team and qualifying teams will be upgraded to next round.\n\n"
+
+
+        "ROUND 3:\n
+1.There will be another arena in which two rotating fan are running over the surface of water to create whirl.\n
+
+2.There will be so many balls, balloons and balloons containing balls inside the arena in one side of the pool.\n
+
+3.And bot will go there, blast the balloon, and pick one or more balls and will put the balls into the bucket which is situated inside the pool.\n\n"
+
+
+        "POINTS DISTRIBUTION:\n
+1.Blast per balloon = 10 pts.\n
+2.Dropping the particles into bucket:-\n
+->balls - 50pts\n
+->.cube/cuboid - 30pts\n
+->.prism - 40pts\n
+->cone - 50pts\n
+3.Arena collision = -5 pts\n
+4.There will be time limitation (maximum time) in each round. The time will be told at the spot.\n
+5.Besides the above time the teams can use 5 min. In case of technical defect during game in each round.\n
+6.If any team mates touches the boat while performing task 10 points will be deducted for each time.\n
+7.If a team completes the task before the time limit then each saved second will add 1point in their account.\n
+8.Timer will stop when the boat burst the balloon at the end point.\n\n"
+
+
+        "GENERAL RULES:\n
+1.A maximum of three members are allowed in each team.\n
+
+2.Teams will have to submmit their boats before an hour of starting the event.\n
+
+3.Ready made circuits are not allowed.\n
+
+4.Ready made gear assemblies can be used.\n
+
+5.Bots will not be allowed which are found unsafe for other teams or spectators.\n
+
+6.The particles can be dragged, pushed, or kicked by bot.\n\n"
+
+
+
+        "DISQUALIFICATION:\n
+1.If the boat crosses the specification limit.\n
+
+2.Use of simple dc and jhonson motor are allowed. Use of other motors than these two will bee a criterion for disqualification.\n
+
+3.Teams may be disqualified on disciplinary grounds.\n
+
+Note – team coordinator reserve the rights to change the rules at any point of time as they deem fit. The change will however be highlighted on the website.\n\n"
+
+    </string>
+
+
+     <string name="mania1">
+
+        "ROUND 1:\n"
+
+"All participating teams will submit an abstract of max. 250-300 words giving basic overview of the plan which is to be mailed before 15 JAN 2017 to itisingh073@gmail.com.\n
+
+ABSTRACT SUMMARY\n"
+
+"       Startup-theme\n"
+"       What is your vision\n"
+
+"ROUND 2:\n
+
+All shortlisted teams will present their startup plan in front of an elite panel of judges in Equilibrio.\n"
+        "Judges will evaluate on the following criteria.\n"
+
+"Quality of startup plan\n"
+
+"   Market need of product or services.\n"
+"   Market potential for your product.\n"
+"   Financial forecasts.\n"
+"   Competitive advantages.\n"
+
+"Impact of presentation\n"
+
+"   Provide evidence of a market.\n"
+"   Provide evidence of ability to execute.\n"
+"   Provide evidence of a return on investment.\n"
+
+"Judges assessment of idea potential\n\n"
+
+
+    </string>
+
+
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329095703761",
+    "firebase_url": "https://equifest-2k17.firebaseio.com",
+    "project_id": "equifest-2k17",
+    "storage_bucket": "equifest-2k17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329095703761:android:ebe14bb0b0dded23",
+        "android_client_info": {
+          "package_name": "com.tricktekno.equifest.equifest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329095703761-2ae9l0vorpbu9m3438nuhena0relmeqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkUjIKjAWxLU_Cy0OdVLEEfGKzI5XES0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

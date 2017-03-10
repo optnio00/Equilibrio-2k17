@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="GEAR UP AND HOLD YOUR NERVES TIGHT,
+THE SECOND SEASON OF “F1……UNLEASH THE BEAST” IS ON ITS WAY"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Make a wireless radio controlled machine, powered by an IC engine, which can race against other opponents on an off-road dirt track with many obstacles.\n
+Track specification:\n
+
+1.Track is of 1.2mtrs, which contain even and uneven rough surfaces, with small size and large size hurdles and also sharp turns.\n
+2.Track length is nearly about 130mtrs.\n"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/f1"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="S.Sai Kiran(8332089834)"/>
+
+</LinearLayout>

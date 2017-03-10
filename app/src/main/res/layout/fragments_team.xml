@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/Fragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/Text"
+        android:textColor="#e44f4f"
+        android:text="OVERALL COORDINATORS"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/advaitanand">
+
+        <ImageView
+            android:src="@drawable/advat_anand"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="ADVAIT ANAND"
+                style="@style/SummaryTitle"
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/niraj.pandey.927543">
+
+        <ImageView
+            android:src="@drawable/neeraj_pandey"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="NEERAJ PANDEY"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/ramkumaruttam">
+
+        <ImageView
+            android:src="@drawable/ram_kumar"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="RAM KUMAR UTTAM"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:textColor="#e44f4f"
+        android:layout_height="wrap_content"
+        style="@style/Text"
+        android:text="WEBSITE / APP HEADS"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="#">
+
+        <ImageView
+            android:src="@drawable/shub_ham"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="SHUBHAM PANDEY"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/optnio00">
+
+        <ImageView
+            android:src="@drawable/anur_ag"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="ANURAG PATEL"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+      <TextView
+          android:layout_width="fill_parent"
+          android:textColor="#e44f4f"
+          android:layout_height="wrap_content"
+          style="@style/Text"
+          android:text="HOSPITALITY HEADS"/>
+
+      <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          style="@style/container"
+          android:onClick="fblink"
+          android:tag="dharmendra.kumarsingh.35762">
+
+          <ImageView
+              android:src="@drawable/dhram"
+              style="@style/SummaryImage"/>
+
+          <LinearLayout
+              android:orientation="vertical"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textColor="@color/textColorPrimary"
+                  android:text="DHARMENDRA"
+                  style="@style/SummaryTitle"
+
+                  android:autoText="false" />
+
+          </LinearLayout>
+
+      </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/puja.singh1119">
+
+        <ImageView
+            android:src="@drawable/puja_singh"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="PUJA SINGH"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:textColor="#e44f4f"
+        android:layout_height="wrap_content"
+        style="@style/Text"
+        android:text="DESIGNING HEADS"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/tkathane">
+
+        <ImageView
+            android:src="@drawable/tan_may"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="TANMAY KATHANE"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="#">
+
+        <ImageView
+            android:src="@drawable/prakash"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="PRAKASH"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="MARKETING/PUBLICITY HEADS"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="100007621128018">
+
+        <ImageView
+            android:src="@drawable/shi_vam"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SHIVAM PANDEY"
+                android:textColor="@color/textColorPrimary"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/luther.immanuel.5">
+
+        <ImageView
+            android:src="@drawable/lut_her"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="LUTHER EMANUEL"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/Text"
+        android:textColor="#e44f4f"
+        android:text="TECHNICAL ADVISORS (CYBERNET)"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="#">
+
+        <ImageView
+            android:src="@drawable/rishabh"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RISHABH GUPTA"
+                android:textColor="@color/textColorPrimary"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/surjeetkumars">
+
+        <ImageView
+            android:src="@drawable/sur_jeet"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="SURJEET KUMAR"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:textColor="#e44f4f"
+        android:layout_height="wrap_content"
+        style="@style/Text"
+        android:text="TECHNICAL ADVISORS (AUTONOMOUS)"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/pratik.gupta.982">
+
+        <ImageView
+            android:src="@drawable/pk_g"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="PRATIK GUPTA"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/srinivas.sanju.946">
+
+        <ImageView
+            android:src="@drawable/sri_nivas"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="SRINIVAS"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:textColor="#e44f4f"
+        android:layout_height="wrap_content"
+        style="@style/Text"
+        android:text="TECHNICAL ADVISOR (CHEMICAL)"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="100006010806256">
+
+        <ImageView
+            android:src="@drawable/al_am"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MD. TABREZ ALAM"
+                android:textColor="@color/textColorPrimary"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="TECHNICAL ADVISOR (MECHATRONICS)"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/mintumine">
+
+        <ImageView
+            android:src="@drawable/vijay_patel"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VIJAY PATEL"
+                style="@style/SummaryTitle"
+                android:textColor="@color/textColorPrimary"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="TECHNICAL ADVISOR (CIVIL)"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/heeranand.kumar.1">
+
+        <ImageView
+            android:src="@drawable/h_k"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="HEERANAND KUMAR"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="OFFICE/FINANCE HEAD"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/rishi.nigam.351">
+
+        <ImageView
+            android:src="@drawable/rishi_nigam"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="RISHI NIGAM"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="MANAGERIAL HEAD"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="100006896507125">
+
+        <ImageView
+            android:src="@drawable/sonali_kumari"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="SONALI KUMARI"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="SECURITY HEAD"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/dhananjay.jaisawat.3">
+
+        <ImageView
+            android:src="@drawable/dhananjay_1"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="DHANANJAY"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalDivider"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="CULTURAL HEAD"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="fblink"
+        android:tag="/kamal.bharti.54">
+
+        <ImageView
+            android:src="@drawable/kamala"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:layout_height="wrap_content"
+                android:text="KAMALA PRASAD"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+          style="@style/HorizontalDivider"/>
+
+    <!--                                -->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#e44f4f"
+        style="@style/Text"
+        android:text="Rate us...."/>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/container"
+        android:onClick="launchMarket"
+        android:tag="com.tricktekno.equifest.equifest">
+
+        <ImageView
+            android:src="@drawable/market"
+            style="@style/SummaryImage"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rate on Google Play"
+                android:textColor="@color/textColorPrimary"
+                style="@style/SummaryTitle"
+
+                android:autoText="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:text="Add Reviews and Ratings...."
+                style="@style/SummaryText"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

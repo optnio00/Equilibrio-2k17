@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Replenish your fantastic childhood memories when we used to watch our favourite cartoon TOM  n JERRY…. Yes!!! These characters are back in disguise of robots. Get ready to experience the thrill and joy of the astounding game of RUN and CHASE."
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Objective is to make a cell phone controlled semi-autonomous robot capable of running away from and chasing the other robot in an arena having various obstacles."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/terry"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1. Dhiraj Raj(8982327263)"/>
+
+</LinearLayout>

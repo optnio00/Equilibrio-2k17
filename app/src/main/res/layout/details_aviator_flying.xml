@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="For all those who have passion in Robotics or Sports, Equilibrio 2k17 presents ‘ROBO SOCCER’. This competition is to show how good and swift robot of yours can be by playing soccer using it and scoring more goals."
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Teams are required to build a wired/wireless robot which is capable to play a soccer match with each other."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/soccer"/>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Rishiraj Sharma(8962374467)"/>
+
+</LinearLayout>

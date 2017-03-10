@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Passionate about Bots? Or you just like to watch things get crushed from fierce competition? The path to glory passes through the alley of destruction, lethal combats, violent bots, and flying blades!
+Merge your technical know-how with the ferocious gladiator in you! Make your bot fight for the ultimate glory or land up in the junk yard!"
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="TEAM SPECIFICATIONS\n
+
+1.A team can have at most 6 members. Members can be from different institutions .\n
+
+2.Each team must specify their team (leader) at the time of registration on representative the website all imp communication between heads team will be done and registered through their representatives.\n
+
+3.Team representatives must submit valid contact details (phone no, email id) at the time of registration.\n"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/robowar"/>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Pankaj Kumar(7389807952)"/>
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="“BE UNIQUE”"
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="This era of business belongs to the entrepreneurs. Following your own instincts rather than following others is the sole mantra of entrepreneurship. So this event as the name suggests is an event wherein you can showcase your idea or plan (basically startup ideas) whereby based on the criteria mentioned below winners will be declared and if possible the ideas can be showcased or presented before angel investors or venture capitalists. "/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/mania1"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Itti Singh(9685611799)"/>
+
+</LinearLayout>

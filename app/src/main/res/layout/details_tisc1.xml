@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="This event will be completely based on the logical gates. In first round we will ask some general questions about Logical Gates. The Best four teams of round 1 will enter in the final round."
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="In final round we will provide logical gates to the team and will give them a specific task to do. Team who perform the task in minimum time will be declared as a winner. "/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/logic"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1.Amit Kumar Singh(9456233564)"/>
+
+</LinearLayout>

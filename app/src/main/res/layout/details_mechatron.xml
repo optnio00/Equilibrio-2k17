@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="PET BOTTLE ROCKET is an event involving basic engineering knowledge and hence students of all branches can participate. It is an interesting event, has simple design, easy to construct and is less expensive. The purpose of organising this event is to provide the information related to TIME OF FLIGHT and RANGE obtained by model of rocket. These useful information are used for dimensional analysis of prototype."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/petbottle"/>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1. ABHASH VERMA (7694855832)\n"/>
+
+</LinearLayout>

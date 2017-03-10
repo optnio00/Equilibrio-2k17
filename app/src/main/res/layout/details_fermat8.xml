@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Keep Calm and Game ON Experience the emotion of scoring great goals in FIFA Lets show them .FIFA mission is develop football everywhere and for all, to touch the world through its inspiring tournaments and to build a better future through the power of the game. Explore FIFA is a series of short animated films that bring you into our world with a visual and easy-to-understand explanation of how we go about carrying out this mission."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/fifa"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="V.Tharun Kumar(8143572672)"/>
+
+</LinearLayout>

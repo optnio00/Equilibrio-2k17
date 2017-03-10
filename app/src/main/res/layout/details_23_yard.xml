@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Description:\n
+
+1.There will be two stages in this event: Round 1 and Round 2.\n
+Objective of first round is to test the ability of the participants in working with the CAD software and designing the simple solid models in the software.\n
+
+2.All the teams will be allowed in the Round 1 after which about one-third of them will be selected for the next stage Round 2.\n
+
+3.Before starting of each Round respective Problem Statement Sheets will be distributed to teams, and after the time is up they have to submit their models in the described file formats.\n
+
+4.Participating teams are required to bring their own computer system (laptop, mouse, track-pad etc) in fully working condition and with appropriate battery charge status.\n
+In case of not working of computer or battery drain-out, no concession will be given and eventually it will lead to their disqualification.\n"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/design"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Gunja Kumari(7898984634)"/>
+
+</LinearLayout>

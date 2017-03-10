@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="The Coder's Arena is in its full Swing. Soon we'll have a new Champion. Take your chances to become one!"
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="The Idea behind this contest is to provide a platform for the students to showcase their talent in Programming. It is not just about writing codes, It is more about solving a problem quickly and writing elegant codes which will clear the time and memory constraints. It will test you for your creativity and your problem solving skills. Handsome prizes awaits the winner."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+       style="@style/ParagraphText"
+        android:text="@string/codesense"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Suraj Kumar(8602570673)"/>
+
+</LinearLayout>

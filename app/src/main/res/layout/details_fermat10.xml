@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Doodle army 2 mini militia is based on the original stickman shooter doodle army. The game features explosive online and local multiplayer warfare!intuitive dual stick shooting controls. "
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Open world utilising rocket for extended vertical flight. Zoom controls,melee attacks and dual wield ability with modern and futuristic heavy duty weapons and grenades."/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/mini"/>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="V.Tharun Kumar(8143572672)"/>
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text=" BUILD YOUR IMAGINATION ,CREATE REALITY "
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="We will provide the contestants with bricks, supporting frame and aggregate for making arch, they have to make it in maximum 15 minutes and after that we will load the arch. The arch which sustain the maximum load will be declared as the best. "/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/Setu"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Anurag Srivastava(8358002056)"/>
+
+</LinearLayout>

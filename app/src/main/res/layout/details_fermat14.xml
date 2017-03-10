@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="As it is cleared through to name “FUNZONE” stands for creative some fun different name shall be conducted time to time such as-"
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1.Musical chair\n
+2.Pinata\n
+3.Kick the can\n
+4.Paper dance\n
+5.FriendMania\n
+6.Push up\n
+7.Jabra-fan\n
+8.Treasure hunt\n
+9.Techno dot\n
+10.Just a minute game (i.e. Quiz, show your talent etc.)\n
+11.Other games\n"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/funzone"/>
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="1. Bhupendra Singh(7898690524)\n2. Danish Manjar(9891608975)"/>
+
+</LinearLayout>

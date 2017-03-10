@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Fragment">
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="fill_parent"
+        style="@style/DetailsImage"
+        android:src="@drawable/tf_logo"/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Equilibrio is the technical festival of Guru Ghasidas Vishwavidyalaya which became a nation wide technical festival in 2014 .It's main motto is to promote technical skills, scientific thinking and accepting innovative ideas."/>
+    <TextView
+        style="@style/ParagraphText"
+
+        android:text="Equilibrio has created an unmatched aura for science and technology attracting students , year after year.Students not only from our college, but all over India get the opportunity to showcase their skills and talent through various technical events. Equilibrio builds a sense of responsibility, team spirit,confidence and leadership qualities. Equilibrio is the most awaited festival for the students all over India."/>
+</LinearLayout>

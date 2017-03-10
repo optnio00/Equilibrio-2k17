@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/ParagraphText"
+        android:text="‘Engineering is the art of directing the great sources of power in nature for the use and convenience of human’. "
+        android:textStyle="italic"/>
+    <TextView
+        style="@style/ParagraphText"
+        android:text="Hydraulic crane is a device, used for raising or transferring heavy loads. In this system power is transmitted with the help of a fluid like water or oil under pressure. Hydraulic cranes work using the concept of transmitting a force from one point to another point through an incompressible fluid. Example in real worlds loader crane, mobile cranes, truck mounted crane, tower crane etc. "/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="RULES/REGULATION\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text="@string/Crane"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#311B92"
+        android:paddingRight="10dp"
+        android:text="Contacts\n"
+        android:textColor="#fff" />
+    <TextView
+        style="@style/ParagraphText"
+        android:text=" PRABHAT PASWAN (7024082510)"/>
+
+</LinearLayout>
